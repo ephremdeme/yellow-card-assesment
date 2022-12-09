@@ -1,5 +1,5 @@
 {
-  "name": "node-typescript-jest-boilerplate",
+  "name": "yellow-card-assesment",
   "version": "0.0.1",
   "description": "NodeJS typescript + jest boilerplate",
   "keywords": [
@@ -7,9 +7,9 @@
     "typescript",
     "jest"
   ],
-  "author": "Brian Schlenker <bschlenk@umich.edu>",
+  "author": "Ephrem Demelash <demelashephrem@gmail.com>",
   "license": "MIT",
-  "repository": "bschlenk/node-typescript-jest-boilerplate",
+  "repository": "ephremdeme/yellow-card-assesment",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
